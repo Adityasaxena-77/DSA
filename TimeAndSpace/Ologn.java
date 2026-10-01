@@ -11,7 +11,7 @@
 //                 break;
 //             }else if(arr[mid]<target){
 //                 left=mid+1;
-//             }else{
+//             }else if(arr[mid]>target){
 //                 right=mid-1;
 //             }
 //          }
